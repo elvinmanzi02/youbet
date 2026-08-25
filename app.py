@@ -29,4 +29,4 @@ else:
     result = "Invalid operator"
 
 print("Result:", result)
-print("Thank you for using our app")
+print("Thank you very much for using our app")
