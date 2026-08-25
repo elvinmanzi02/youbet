@@ -29,3 +29,4 @@ else:
     result = "Invalid operator"
 
 print("Result:", result)
+print("Thank you for using our app")
